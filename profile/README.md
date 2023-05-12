@@ -1152,6 +1152,7 @@
 - [Xirsys](https://www.xirsys.com) — Global network of STUN / TURN servers with a generous free tier.
 - [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks
 - [LocalXpose](https://localxpose.io) — Reverse proxy that enables you to expose your localhost servers to the internet. Free plan has 15 mintues tunnel life time.
+- [Pinggy](https://pinggy.io) — SSH based single command HTTPS / TCP / TLS tunnels, no downloads required. Rich terminal interface and a web debugger. Free tier - 60 min timeout. Paid tier allows custom domains with built-in Let's Encrypt certificates.
 
 **[⬆ back to top](#table-of-contents)**
 
